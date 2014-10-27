@@ -23,7 +23,7 @@ I'd posit three primary reasons:
    anywhere. Start with one and if you don't like it, switch. At least give Vim
    a chance if you haven't already; your life will be easier
    when you `ssh` into your next client's server.
-3. <b>Unfriendly Defaults</b>. More on this below.
+3. <b>Unfriendly Defaults.</b> More on this below.
 
 In my experience, very few people use Vim without heavy customization. Why?
 Because out of the box you get virtually nothing but an extremely unintuitive
