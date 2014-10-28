@@ -4,7 +4,7 @@ title:  "Rails Admin Custom Action Example"
 date:   2014-10-27 12:13:26
 categories: ruby rails
 ---
-[Rails Admin][rails-admin] provides a great out-of-the-box Admin portal, and our
+[Rails Admin][rails-admin] provides a great out-of-the-box Admin portal, and my
 clients love it. But like most admin portal solutions it can be difficult to
 customize. Rails Admin describes Custom Actions as a core feature, yet I've
 found the documentation on this critical workflow to be somewhat lacking, and a
