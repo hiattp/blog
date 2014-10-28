@@ -14,7 +14,9 @@ and goals.
 First, I'll try to steer clear of "best practice" vim customizations that I think
 people should (and probably do) already have somewhere in their dotfiles. These
 have been written about *ad nauseam* elsewhere, so if you are still using
-`C-w, l` to navigate split windows these probably aren't for you. In general
+`C-w, l` to navigate split windows these probably aren't for you. I'm certainly
+not claiming novelty, just shooting for things that feel under-appreciated or
+experimental. In general
 I'll avoid shortcuts and settings in the [thoughtbot dotfiles][thoughtbot] since
 those have been battle-tested by their team and well covered. Examples
 include remapping your leader, setting line numbers and using `C-l` or `C-h` to
