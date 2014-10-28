@@ -88,7 +88,7 @@ RailsAdmin.config do |config|
 end
 {% endhighlight %}
 
-### Step 3: Custom Action Logic
+### Step 3: Write Your Action Logic
 
 By default, Rails Admin will render a view with the same name as our action.
 This particular application used authentication based on JSON Web Tokens, so
