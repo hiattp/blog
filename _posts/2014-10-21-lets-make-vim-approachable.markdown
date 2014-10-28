@@ -62,7 +62,9 @@ while rummaging someone else's setup since you don't have to sort through the
 same-old "best practice" chaff.
 
 There are some robust contenders for a "standard", including my favorite dotfile
-set by [thoughtbot][thoughtbot]. My own setup uses theirs as a baseline, so I
+set by [thoughtbot][thoughtbot] and the somewhat heavy-handed [YADR][yadr]
+(even more [here][gdots]).
+My own setup uses thoughtbot's as a baseline, so I
 can focus more on my [local overrides][overrides] and less on what should be
 default behaviors.
 
@@ -72,3 +74,5 @@ default behaviors.
 [ctrlp]:      https://github.com/kien/ctrlp.vim
 [thoughtbot]: https://github.com/thoughtbot/dotfiles
 [overrides]:  https://github.com/hiattp/dotfiles
+[yadr]:       https://github.com/skwp/dotfiles
+[gdots]:      http://dotfiles.github.io/
