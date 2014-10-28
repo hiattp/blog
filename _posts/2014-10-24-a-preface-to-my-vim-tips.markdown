@@ -6,7 +6,7 @@ categories: vim
 ---
 Something about fine tuning dotfiles triggers a chemical process in the
 brain that demands personal `.vimrc` evangelism, and despite my impending
-participation I believe this zeal is a primary barrier
+participation I believe this zeal is a primary barrier to
 the sort of [standardization][approachable] I think the Vim community needs.
 That being the case, I wanted to preface my vim tip series with a few caveats
 and goals.
