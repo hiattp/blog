@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Intro To My Vim Tips"
+title:  "A Preface To My Vim Tips"
 date:   2014-10-24 12:13:26
 categories: vim
 ---
-Something about fine tuning dotfiles initiates a chemical process in the
+Something about fine tuning dotfiles triggers a chemical process in the
 brain that demands personal `.vimrc` evangelism, and despite my impending
 participation I think this zeal is a primary barrier
 the sort of [standardization][approachable] I think the Vim community needs.
