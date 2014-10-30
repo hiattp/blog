@@ -14,7 +14,8 @@ guessing I'm not the first to have [this problem][foil-fix]).
 
 Now, I like this keyboard. It maps exactly to the Macbook Pro layout so my
 muscle memory isn't thrown off by switching back and forth. And I don't mind
-shelling out Apple premiums because their products are worth it, but this is a
+shelling out Apple premiums because their products are worth it, but I hate to
+replace what is otherwise a
 perfectly good device (*sans* power source). I happened to have a spare USB
 charger from some former iPhone, so I decided to see how well the two play
 together.
