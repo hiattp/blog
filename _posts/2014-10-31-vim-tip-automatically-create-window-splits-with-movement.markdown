@@ -5,7 +5,7 @@ date:   2014-10-31 12:13:26
 categories: vim
 ---
 At this point I think everyone probably has "faster window movement"
-implemented:
+in their dotfiles:
 
 {% highlight vim script %}
 nnoremap <C-j> <C-w>j
