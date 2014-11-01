@@ -85,7 +85,7 @@ connection).
 ### Step 6: Happy Ending
 
 At this point you'll either have a newly functional keyboard or a wasted hour
-and some extra mac replacement keys. There's no second place in hacking :).
+and some extra mac replacement keys. There's no second place in hacking.
 
 ![Happy Ending]({{ site.url }}/assets/happy_ending.jpg)
 
