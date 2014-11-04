@@ -100,7 +100,7 @@ $50K-150K for a brick and mortar web shop based in the U.S. You'll probably pay
 
 That being said, results will vary and there is still too much
 variability/opacity for my taste. I'm interested in building a simple polling
-tool that let's people submit anonymous project costs with simple
+tool that lets people submit anonymous project costs with simple
 complexity/satisfaction selections. If there is any interest in something like this pipe up
 in the comments and I'll put something together.
 
