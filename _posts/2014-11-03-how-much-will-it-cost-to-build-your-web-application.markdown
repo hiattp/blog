@@ -25,12 +25,12 @@ talking about building websites for $1000 or less. What gives?
 
 Unfortunately there isn't a great black-and-white distinction between these two
 types of internet "products" but there is a huge cost difference between
-building a web**site** like [joetheplubmer.com][joe] and dynamic web
+building a web**site** like [joetheplumber.com][joe] and dynamic web
 **applications** like [Facebook](http://www.facebook.com) or [Twitter](http://twitter.com). One
 heuristic you can use to distinguish is that websites primarily display static
-content that a website administrator or designer has composed, whereas web
+content that a website administrator or designer has generated, whereas web
 applications are typically processing and rendering content that *users* have
-composed. And web applications typically allow users to do more interesting
+generated. And web applications typically allow users to do more interesting
 things than just search and view content. As an example, you've probably used
 Wordpress (a web **application**) to compose content for your web**site**.
 
