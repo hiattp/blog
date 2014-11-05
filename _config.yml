@@ -11,3 +11,5 @@ github_username:  hiattp
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
