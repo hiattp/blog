@@ -3,6 +3,7 @@ layout: post
 title:  "Vim Tip: Automatically Create Window Splits With Movement"
 date:   2014-10-31 12:13:26
 categories: vim
+meta: "Don't worry about window split creation or where they will end up. Generate windows automatically with movement."
 ---
 At this point I think everyone probably has "faster window movement"
 in their dotfiles:

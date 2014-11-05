@@ -3,6 +3,7 @@ layout: post
 title:  "Image Processing With Thumbor Behind NGINX on EC2"
 date:   2014-10-26 12:13:26
 categories: ec2 thumbor
+meta: "How to build an image processing server with thumbor on EC2 without going crazy."
 ---
 I'm a big fan of [thumbor](http://thumbor.org/) and resizing images on the fly
 behind a CDN; what a great way to keep the front end flexible while seeing the

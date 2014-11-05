@@ -3,6 +3,7 @@ layout: post
 title:  "Power Your Wireless Apple Keyboard With USB"
 date:   2014-10-30 12:13:26
 categories: hacks apple
+meta: "Foil trick not working to fix your dead Apple keyboard? Here's a more intense (but more effective) way to fix it."
 ---
 ![Apple Wireless Keyboard]({{ site.url }}/assets/wireless_keyboard.jpg)
 

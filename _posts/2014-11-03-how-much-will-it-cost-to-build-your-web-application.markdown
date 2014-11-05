@@ -3,6 +3,7 @@ layout: post
 title:  "How Much Will It Cost To Build Your Web Application"
 date:   2014-11-03 12:13:26
 categories: web-applications cost
+meta: "Wondering what is reasonable to pay for your MVP? Here's why you see such wild price swings when receiving cost estimates."
 ---
 Having spent years on both sides of the table shopping for web development
 services/clients, I've both seen and contributed to the dramatic price swings

@@ -3,6 +3,7 @@ layout: post
 title:  "Vim Tip: Shift Is Overplayed Part 1"
 date:   2014-10-28 12:13:26
 categories: vim
+meta: "Avoid modifier keys in Vim that might slow you down. Here's Part 1 on Shift."
 ---
 I don't like to hate on individual keys, but I'm not a huge fan of modifiers in
 general and I feel like Shift has a particularly undeserving role as a

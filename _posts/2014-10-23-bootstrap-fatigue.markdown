@@ -3,6 +3,7 @@ layout: post
 title:  "Bootstrap Fatigue"
 date:   2014-10-23 12:13:26
 categories: bootstrap
+meta: "Use Bootswatch to relieve eyestrain induced by looking at the default Bootstrap navbar for months at a time."
 ---
 I work with a lot of startups needing MVPs, and few "earliest" stage companies
 want to spend funds on design resources. Invariably this

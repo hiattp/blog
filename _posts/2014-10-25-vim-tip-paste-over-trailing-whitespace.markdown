@@ -3,6 +3,7 @@ layout: post
 title:  "Vim Tip: Paste Over Trailing Whitespace"
 date:   2014-10-25 12:13:26
 categories: vim
+meta: "Paste over trailing whitespace in Vim to avoid the back and forth when using SnipMate"
 ---
 If you use [SnipMate](https://github.com/garbas/vim-snipmate) (highly
 recommended) you may frequently end up with this situation. Let's say you are

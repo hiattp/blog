@@ -3,6 +3,7 @@ layout: post
 title:  "Essential Vim Plugins"
 date:   2014-10-22 12:13:26
 categories: vim
+meta: "Some of my favorite Vim plugins, essential for productive web development."
 ---
 I [wrote previously][previous] about basing [my setup][overrides] on the
 [thoughtbot][thoughtbot] dotfiles. They include some critical plugins by

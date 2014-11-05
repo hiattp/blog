@@ -3,6 +3,7 @@ layout: post
 title:  "A Preface To My Vim Tips"
 date:   2014-10-24 12:13:26
 categories: vim
+meta: "A quick read on my attitude towards dotfiles and context for a forthcoming series of posts about how I optimize mine."
 ---
 Something about fine tuning dotfiles triggers a chemical process in the
 brain that demands personal `.vimrc` evangelism, and despite my impending

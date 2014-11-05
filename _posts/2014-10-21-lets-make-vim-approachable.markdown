@@ -3,6 +3,7 @@ layout: post
 title:  "Let's Make Vim Approachable"
 date:   2014-10-21 12:13:26
 categories: vim
+meta: "Vim is notoriously unfriendly to beginners, but extremely powerful for web development. Let's take some steps to help Vim get out of its own way."
 ---
 After a few years of professional experience almost every developer
 will need (or at least encounter) Vim. There is nothing quite as frustrating as
