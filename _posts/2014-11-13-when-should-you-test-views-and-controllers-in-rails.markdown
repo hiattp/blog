@@ -128,7 +128,7 @@ into the model layer and unit test it.
 One issue with that approach is you now have a feature spec telling the
 controller how to do its job, so it is going to be brittle. But I have a much
 less sophisticated complaint: Now that we are loading a headless browser for
-the integration test, it is going to SLOW. Stop thinking milliseconds, start
+the integration test, it is going to be SLOW. Stop thinking milliseconds, start
 thinking seconds every time you run it. Then think about running it a thousand
 times (as you will throughout the build), or running a thousand tests just like it.
 You'll slowly start running the test less often, or eventually abandon it completely.
@@ -137,15 +137,15 @@ Note we started the TDD process with the goal of avoiding controller tests,
 because that's what the cool kids are doing. In many cases, go for it. But
 you'll have much faster and more flexible tests in this case if you drop to
 the controller level to test the added complexity. In fact, here is another rule
-of thumb for you to ignore in many cases: **Test where you will be adding the complexity,
+of thumb (for you to ignore in many cases): **Test where you will be adding the complexity,
 unless a higher-level test makes it redundant.**
 And what qualifies as redundant will depend on your judgement.
 
 #### View tests are like Controller tests (when you need them you need them)
 
-Now let's say the blog post bodies are from CKEditor, so they have embedded
+Now let's say the blog post bodies are from [CKEditor][cke], so they have embedded
 html. You only want to display the first 150 characters of the post in the list
-summaries, so you'll want the view to strip the html tags, decode the html
+summaries, so you'll want the view logic to strip the html tags, decode the html
 special characters, then truncate the body to a short summary at the proper
 length. Do you want to try testing that in the slow-running feature spec? Nope.
 Can you test it in the controller? Nope. Do you want that much logic untested in
@@ -165,3 +165,4 @@ computer (purely for show; maybe someday you'll give it a browse).
 [debate]:    https://github.com/andreareginato/betterspecs/issues/14
 [sandi]:     http://robots.thoughtbot.com/sandi-metz-rules-for-developers
 [simplecov]: https://github.com/colszowka/simplecov
+[cke]:       http://ckeditor.com/
