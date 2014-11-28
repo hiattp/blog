@@ -155,7 +155,7 @@ Here's the retrospective:
 
 ### The Good
 
-The obvious wins here are twofold. First, the spec for the matcher class now
+The obvious win here is twofold. First, the spec for the matcher class now
 looks like this:
 
 
