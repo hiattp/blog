@@ -34,7 +34,7 @@ The first strategy is an example of a **Progress-driven approach**. You are
 undertaking an exploratory endeavor that allows your brain to process the
 topology of the document and the context in which you will ultimately find
 yourself, and to put all of this contextual information along a timeline of
-events (you were here, then you were here, and that's how you got here).
+events (you were here, then you did this, and that's how you got here).
 
 The second strategy is an example of an information-driven **Jump approach**. You
 incorporate knowledge of your environment (in this case the document) and the
