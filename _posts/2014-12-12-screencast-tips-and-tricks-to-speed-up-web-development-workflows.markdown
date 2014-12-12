@@ -19,7 +19,7 @@ I also want to note that none of this is novel so you've probably seen or heard
 of these tools, in which case this is just a nudge to use them if you aren't
 already. Enjoy!
 
-{% youtube http://youtu.be/TFysiX9J-fo %}
+<div class="bt-video-container" style="position:relative;padding-bottom:75.00%;padding-top:30px;height:0;overflow:hidden"><iframe width="480" height="360" src="http://www.youtube.com/embed/TFysiX9J-fo?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
 \**Apparently 'name' is hard to type while talking, who knew?*
 
 ### Tools and Hotkeys Mentioned
