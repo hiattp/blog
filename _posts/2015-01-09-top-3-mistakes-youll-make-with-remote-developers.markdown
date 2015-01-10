@@ -25,7 +25,7 @@ resold as high-value goods in high-cost markets. Knowledge work *does not share
 that geographic restriction*, and thus does not present the same opportunity for
 cost arbitrage.
 
-The 1970s "cheap outsourcing" attitude towards remote worker looks like this:
+The 1970s "cheap outsourcing" attitude towards remote development looks like this:
 If you can overcome the distance barrier by working with a developer in
 India or Eastern Europe, you'll receive some kind of discount per unit of
 quality work and be able to leverage that in your more expensive market (the US
@@ -46,7 +46,7 @@ Now I'm not saying there aren't opportunities to save money, and I'm downplaying
 the challenges of work at a distance to make a point. But the next time you find
 yourself wondering if that $15/hour developer in Pakistan is going to put out
 work like the $150/hour senior developer in California, here's your answer: He
-won't. (And the $100/hour Pakistani engineer down the street may well beat
+won't. (While the $100/hour engineer in Islamabad may well beat
 out both.)
 
 ### Mistake #2: Underestimating Communication Barriers
@@ -94,7 +94,7 @@ costs. And outside of internalized financial burdens, a moving goalpost in any
 complex project kills motivation and throws off development time lines (both for
 your project and other projects the team is working on).
 
-It is impossible to avoid this in all cases (which is why you hear about it so
+It is impossible to avoid scope creep in all cases (which is why you hear about it so
 frequently), but the key as a product manager is to identify when it happens and
 adjust the [project triangle][triangle] accordingly.
 
