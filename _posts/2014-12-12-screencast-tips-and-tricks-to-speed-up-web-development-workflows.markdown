@@ -36,6 +36,11 @@ already. Enjoy!
 - Full line completion with [supertab][full-line]
 - Run tests from Vim with [vim-rspec][vim-rspec]
 
+### Update: New Screencast
+
+If you enjoyed this screencast, check out
+[Quick and Dirty Vim Macros][new-screencast]!
+
 [recent-post]: http://blog.paulrugelhiatt.com/vim/productivity/2014/12/05/your-natural-tendency-to-observe-progress-is-killing-your-productivity.html
 [divvy]: http://mizage.com/divvy/
 [zsh]: http://www.zsh.org/
@@ -47,3 +52,4 @@ already. Enjoy!
 [snipmate]: https://github.com/garbas/vim-snipmate
 [full-line]: https://github.com/ervandew/supertab
 [vim-rspec]: https://github.com/thoughtbot/vim-rspec
+[new-screencast]: http://blog.paulrugelhiatt.com/rails/vim/productivity/2015/01/19/screencast-quick-and-dirty-vim-macros.html
