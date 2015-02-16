@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Dragon.rb: An Open Source Ruby API for Voice Recognition Software"
+title: "Introducing Dragon.rb: An Open Source Ruby DSL for Voice Recognition Software"
 date:   2015-02-16 12:13:26
 categories: dragonrb ruby
 meta: "Making Nuance's Dragon Dictate for Mac extensible enough for programming and other advanced computer interactions"
