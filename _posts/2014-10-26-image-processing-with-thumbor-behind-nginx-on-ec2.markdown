@@ -77,7 +77,7 @@ stderr_logfile_backups=10
 
 {% highlight bash shell %}
 # /etc/nginx/nginx.conf
-# Put this under the http section, replacing the server name with
+# Put this inside the http section, replacing the server name with
 # your EC2 Public DNS
 
 upstream thumbor {
