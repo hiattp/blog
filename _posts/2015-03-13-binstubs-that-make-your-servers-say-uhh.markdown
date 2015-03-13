@@ -45,8 +45,20 @@ bundle exec jekyll serve
 perl -d script/server.pl
 {% endhighlight %}
 
-Just `cd` into any project and initiate the server with `sr`,
-it doesn't get much easier than that. I originally mentioned this in my earlier
+## Path
+If this is your own machine (not a shared host), you can add the local bin
+directory to your path:
+
+    export PATH="./bin:$PATH"
+
+If it is a shared host, do something more like this (more detail [here][rbenv]):
+
+    export PATH="$PWD/bin:$PATH"
+    hash -r 2>/dev/null || true
+
+Then just `cd` into any project and initiate the server with `sr`,
+it doesn't get much easier than that. I originally mentioned this in my
 screencast about [speeding up your development process][sc], give it a look!
 
 [sc]: http://blog.paulrugelhiatt.com/rails/vim/productivity/2014/12/12/screencast-tips-and-tricks-to-speed-up-web-development-workflows.html
+[rbenv]: https://github.com/sstephenson/rbenv/wiki/Understanding-binstubs
