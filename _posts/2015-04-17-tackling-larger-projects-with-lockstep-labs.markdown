@@ -18,15 +18,14 @@ But the lone wolf engineer-for-hire lifestyle has some significant drawbacks.
 You generally work on smaller projects. You typically design and code in a
 vacuum, which limits the important idea cross-pollination of pair
 programming and team settings. And while you contribute to remote teams
-and meet other interesting freelancers, you never have the same sense of
-community that forms around the common purpose and vision of well run
-organizations.
+and meet other interesting freelancers, you never have the motivating sense of
+community, purpose and vision that forms inside a well run organization.
 
 So that chapter is closing. I'm continuing to work on my own ventures and open
 source projects, but within the larger Lockstep context. We are
 starting an exciting project with a Y Combinator portfolio company that would
 have been too large for any of us individually, and we have a nice "Friday
 afternoon beers" tradition already taking shape. I'm thrilled to see where it
-takes me and the rest of the team!
+takes me and the rest of the Lockstep team!
 
 [lockstep]: https://www.locksteplabs.com/
