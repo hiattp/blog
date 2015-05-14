@@ -41,7 +41,7 @@ Preferences.
 
 ### Karabiner
 
-After installing, create and run a binstub that looks like this:
+After installing, create and run a shell script that looks like this:
 
 {% highlight bash %}
 #!/bin/sh

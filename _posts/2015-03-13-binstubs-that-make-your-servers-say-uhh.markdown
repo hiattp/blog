@@ -2,7 +2,7 @@
 layout: post
 title:  "Binstubs That Make Your Servers Say Uhhhhh"
 date:   2015-03-13 12:13:26
-categories: binstubs
+categories: scripts
 meta: "How about a two-letter command to boot any server in your myriad projects?"
 ---
 If you work across a variety of projects, remembering local server boot commands
