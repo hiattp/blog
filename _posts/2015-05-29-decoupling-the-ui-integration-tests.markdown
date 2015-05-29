@@ -55,4 +55,4 @@ and let Rails pretend the UI is part of its public assets. Now Capybara
 will work exactly the same as before, and you can run integration tests as
 easily as if the API and UI were unified.
 
-[decoupling]: http://localhost:4000/rails/2015/05/07/decoupling-the-ui.html
+[decoupling]: http://blog.paulrugelhiatt.com/rails/2015/05/07/decoupling-the-ui.html
