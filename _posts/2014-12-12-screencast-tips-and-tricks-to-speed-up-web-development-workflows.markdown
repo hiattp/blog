@@ -38,8 +38,7 @@ already. Enjoy!
 
 ### Update: New Screencast
 
-If you enjoyed this screencast, check out
-[Quick and Dirty Vim Macros][new-screencast]!
+If you enjoyed this screencast, check out [Quick and Dirty Vim Macros][new-screencast]!
 
 [recent-post]: http://blog.paulrugelhiatt.com/vim/productivity/2014/12/05/your-natural-tendency-to-observe-progress-is-killing-your-productivity.html
 [divvy]: http://mizage.com/divvy/
