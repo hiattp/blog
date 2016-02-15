@@ -3,7 +3,7 @@ layout: post
 title:  "A Concurrency Conundrum in Rails"
 date:   2016-02-15 12:13:26
 categories: rails concurrency
-meta: "Ruby is notoriously bad at concurrency, but even Postgres locking seems to fall short of this particular problem."
+meta: "Ruby is notoriously bad at concurrency, but even Postgres locking seems to fall short in this particular problem."
 ---
 
 Ruby is notoriously bad at concurrency, but usually we can limp along in
@@ -32,7 +32,7 @@ end
 
 Let's assume that we really don't want to fire the laser more than once, because
 it costs a ton of Imperial Credit and Vader is strapped. But we have tons of
-information coming into the system indicating whether the laser should be fired,
+information coming into the system indicating whether the laser should fire,
 and each one kicks off a redis-backed sidekiq process that runs on workers
 across multiple servers:
 
