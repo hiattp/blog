@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Fin"
+date:   2017-01-08 12:13:26
+categories: rails
+meta: "This blog is heading for the shelf!"
+---
+
+It has been over two years since my first blog post. In my days
+as a freelancer this blog was a fantastic way to build
+credibility, generate leads and increase reference links to my
+primary marketing pages. As [Lockstep][lockstep] matured and
+my responsibilities shifted from active development to
+product management and sales my content
+creation dwindled to a nearly imperceptible trickle as
+both time and inspiration fled to other necessary action items.
+Since it doesn't look like that will be changing in the near future
+I've decided to retire the blog, but leave it online for reference.
+
+Please don't hesitate to reach out about technical product builds or
+consulting engagements! While this blog is headed for the shelf my
+consulting practice is alive and well, and we are always looking for
+exciting new projects!
+
+[lockstep]: https://www.locksteplabs.com/
